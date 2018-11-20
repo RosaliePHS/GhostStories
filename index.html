@@ -1,0 +1,21 @@
+---
+layout: default
+title: A guide to your digital life
+---
+
+
+
+{
+    
+    <a href='https://www.dropbox.com/s/j96wsc0tdahjgeb/IMG_7466.JPG?dl=0' class='link dim blue'>Piña</a>
+},
+
+<div class="listing">
+    {% for post in paginator.posts %}
+    <div class="post other link">
+      <h2></span> <a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h2>
+      <p class="post-date">{{ post.date | date_to_string }}</p>
+      {{ post.excerpt }}
+    </div>
+    {% endfor %}
+</div>
