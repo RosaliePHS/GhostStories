@@ -3,6 +3,8 @@ title: Dear Bahktiar
 layout: post
 author: rosalie
 permalink: /dear-bahktiar/
+tags:
+- projects
 source-id: 1lJJlO_z_xAHtk-A8ZgHbmDJ9moo6vQn20MSCwsWz7rc
 published: true
 ---
