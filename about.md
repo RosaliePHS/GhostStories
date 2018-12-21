@@ -3,7 +3,7 @@ layout: default
 title: About Ghost Stories
 ---
 
-# Rosalie Norris is a team member at Powderhouse Studios. This is her Program of Study, an intellectual and creative exploration of questions and ideas she is passionate about!
+# Rosalie Norris is a team member at [Powderhouse Studios](https://powderhouse.org/). This is her Program of Study, an intellectual and creative exploration of questions and ideas she is passionate about!
 <!--<a data-flickr-embed="true"  href="https://www.flickr.com/photos/129642561@N02/30353529222/" title="IMG_5084"><img src="https://farm6.staticflickr.com/5328/30353529222_91795b16ea_z.jpg" width="439" height="640" alt="IMG_5084"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>-->
 
 ## Why I am Drawn to Ghosts 
